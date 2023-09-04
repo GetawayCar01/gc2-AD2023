@@ -1,0 +1,6 @@
+C:\Users\Angel Medrano G\Desktop\Texture\Debug\Texture.exe
+C:\Users\Angel Medrano G\Desktop\Texture\Debug\Texture.pdb
+C:\Users\fgarc\Desktop\FelipeD\Facultad\Vacante\Drive\Texture\Debug\Texture.exe
+C:\Users\fgarc\Desktop\FelipeD\Facultad\GC2\Clase 3\Texture\Debug\Texture.exe
+C:\Users\Usuario\Documents\Graficas2-AD2023\gc2-AD2023\Texture\Debug\Texture.exe
+C:\Users\Cgarz\OneDrive\Escritorio\Graficas_Computacionales 2\Practica1\gc2-AD2023\Texture\Debug\Texture.exe

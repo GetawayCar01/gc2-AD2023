@@ -1,0 +1,12 @@
+﻿C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Recursos\PixelShader.hlsl(23,11-58): warning X3206: implicit truncation of vector type
+C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Recursos\PixelShader.hlsl(24,11-58): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Debug\VertexShader.cso
+  DemoTexture.cpp
+C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Dx11Base.h(10,10): fatal  error C1083: Cannot open include file: 'd3dx11.h': No such file or directory
+  Dx11Base.cpp
+C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Dx11Base.h(10,10): fatal  error C1083: Cannot open include file: 'd3dx11.h': No such file or directory
+  main.cpp
+C:\Users\josei\OneDrive\Documents\Mis Documentos\Trabajos Uni\9no Semestre\GC2\Practicas\Texture\Dx11Base.h(10,10): fatal  error C1083: Cannot open include file: 'd3dx11.h': No such file or directory
+  Generating Code...

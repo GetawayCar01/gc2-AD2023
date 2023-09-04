@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Cgarz\OneDrive\Escritorio\Graficas_Computacionales 2\Practica1\gc2-AD2023\Texture\Debug\Texture.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Cgarz\OneDrive\Escritorio\Graficas_Computacionales 2\Practica1\gc2-AD2023\Texture\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Cgarz\OneDrive\Escritorio\Graficas_Computacionales 2\Practica1\gc2-AD2023\Texture\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
