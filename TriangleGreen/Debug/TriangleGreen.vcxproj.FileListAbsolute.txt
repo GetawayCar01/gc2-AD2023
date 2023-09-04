@@ -1,0 +1,6 @@
+C:\Users\Angel Medrano G\Desktop\TriangleGreen\Debug\TriangleGreen.exe
+C:\Users\Angel Medrano G\Desktop\TriangleGreen\Debug\TriangleGreen.pdb
+C:\Users\fgarc\Desktop\FelipeD\Facultad\Vacante\Drive\TriangleGreen\Debug\TriangleGreen.exe
+C:\Users\fgarc\Desktop\FelipeD\Facultad\GC2\Clase 2\TriangleGreen\Debug\TriangleGreen.exe
+D:\Documentos\FCFM\EJ2023\GC2\Clase 2\Descargas\TriangleGreen\Debug\TriangleGreen.exe
+C:\Users\Usuario\Documents\Graficas2-AD2023\gc2-AD2023\TriangleGreen\Debug\TriangleGreen.exe
