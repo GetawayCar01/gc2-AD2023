@@ -1,0 +1,6 @@
+C:\Users\fgarc\Desktop\FelipeD\Facultad\Vacante\Drive\Model\Debug\Model.exe
+C:\Users\fgarc\Desktop\FelipeD\Facultad\GC2\Clase 5\Model\Debug\Model.exe
+C:\Users\fgarc\Desktop\FelipeD\Facultad\GC2\Clase 6\Model\Debug\Model.exe
+C:\Users\danie\Desktop\PERSONAL\FCFM\Gráficas\Repositorio Alumnos\gc2-AD2023\LucesGC2\Model\Debug\Model.exe
+C:\Users\user\Documents\GCII\PRACTICAS\gc2-AD2023\LucesGC2\Model\Debug\Model.exe
+C:\Users\Leonovo\Desktop\Alan\FCFM\Semestre Agosto - Diciembre 2023\Gráficas Computacionales II\Ejercicios\LucesGC2\Model\Debug\Model.exe

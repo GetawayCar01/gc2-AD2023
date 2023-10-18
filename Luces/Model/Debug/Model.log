@@ -1,0 +1,15 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\ShaderLighting.fx(68,11-51): warning X3206: implicit truncation of vector type
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\ShaderLighting.fx(71,5-51): warning X3206: implicit truncation of vector type
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\ShaderLighting.fx(74,33-52): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\Debug\ShaderLighting.cso
+  DemoModel.cpp
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\Dx11Base.h(10,10): fatal  error C1083: Cannot open include file: 'd3dx11.h': No such file or directory
+  Dx11Base.cpp
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\Dx11Base.h(10,10): fatal  error C1083: Cannot open include file: 'd3dx11.h': No such file or directory
+  main.cpp
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\Dx11Base.h(10,10): fatal  error C1083: Cannot open include file: 'd3dx11.h': No such file or directory
+  ObjParser.cpp
+E:\Programas\gc2-AD2023\5to_Ejercicio_GC2_1897486\Model\ObjParser.h(9,10): fatal  error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+  Generating Code...
